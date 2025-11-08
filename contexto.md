@@ -19,7 +19,7 @@ Alíquota: 10% de Imposto de Renda Retido na Fonte (IRRF) sobre lucros e dividen
 Limite de Isenção: A tributação só incide sobre o valor que exceder R$ 50.000,00 por mês (por empresa, por beneficiário)
 www12.senado.leg.br
 . Em outras palavras, até R$ 50 mil mensais em dividendos por empresa permanecem isentos; o que passar disso será tributado em 10%.
-Exceção: Empresas optantes pelo Simples Nacional continuam isentas na distribuição de lucros
+Exceção: [removida] Informação sobre isenção permanente do Simples Nacional não procede. Foque nos limites e alíquota gerais e em dividendos ao exterior (10% sem faixa de isenção).
 rioclaro.com.br
  (a nova regra vale para empresas de Lucro Presumido ou Real).
 (Observação: Deixe claro com exemplos simples. Por exemplo: se a empresa distribuir R$ 60 mil em um mês para um sócio, R$ 10 mil serão tributados em 10% e os R$ 50 mil iniciais ficam isentos. Se distribuir R$ 50 mil ou menos, não há imposto novo. Destacar também que dividendos enviados ao exterior serão tributados em 10% sobre qualquer valor, sem faixa de isenção

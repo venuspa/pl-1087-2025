@@ -1521,10 +1521,16 @@ body {
 
 /* Slide final */
 .final-slide {
-    background: var(--gradient-dark);
-    color: var(--text-white);
+    background: var(--bg-primary);
+    color: var(--text-primary);
     text-align: center;
     justify-content: space-between;
+}
+
+/* Remover overlay herdado do cover-slide quando usado no slide final */
+.final-slide.cover-slide::before {
+    content: none;
+    display: none;
 }
 
 .final-header {

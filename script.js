@@ -267,7 +267,6 @@ class PresentationController {
                 <ul>
                     <li>Alíquota de 10% sobre dividendos que excederem R$ 50.000 mensais</li>
                     <li>Isenção de R$ 50.000 por empresa, por beneficiário</li>
-                    <li>Exceção: empresas do Simples Nacional continuam isentas</li>
                     <li>Dividendos enviados ao exterior: tributados em 10% sobre qualquer valor</li>
                 </ul>
                 <p><strong>Exemplo prático:</strong> Use o exemplo do slide para deixar claro como funciona a tributação.</p>
